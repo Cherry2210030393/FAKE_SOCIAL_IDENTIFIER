@@ -53,7 +53,7 @@ To build a tool that flags potentially fake or impersonated accounts using a com
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FAKE_SOCIAL_IDENTIFIER.git
+git clone https:https://github.com/Cherry2210030393/FAKE_SOCIAL_IDENTIFIER.git
 cd FAKE_SOCIAL_IDENTIFIER
 pip install -r requirements.txt
 python app.py
@@ -98,12 +98,3 @@ This tool is for educational and research purposes only. It does not access priv
 
 ---
 
-## 📫 Contact
-
-If you'd like to contribute or have feedback, feel free to connect with me:
-
-**GitHub:** [github.com/your-username](https://github.com/your-username)
-
-**Email:** your.email@example.com
-
----
