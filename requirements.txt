@@ -1,0 +1,8 @@
+streamlit
+beautifulsoup4
+selenium
+opencv-python
+requests
+pillow
+spacy
+scikit-image
